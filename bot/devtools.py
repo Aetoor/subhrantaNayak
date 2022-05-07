@@ -1,7 +1,4 @@
 # https://github.com/1Danish-00/CompressorQueue/blob/main/License> .
-
-from .
-
 #    This file is part of the Compressor distribution.
 #    Copyright (c) 2021 Danish_00
 #
